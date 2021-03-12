@@ -1,0 +1,10 @@
+{
+	"display": {
+		"timeout": 15000,
+        "brightness": 50
+	},
+	"bluetooth": {
+		"name": "Espruino (T-Watch2020)",
+		"visible_cooldown": 500000
+	}
+}
